@@ -1,4 +1,4 @@
-# online-bookings-management-system
+# Online Bookings Management System
 As per requirements of an online bookings management system, I would Like to share Online Bookings Management System and would like to share the method how you can install it on your local or live environment.
 
 # Installation Process:
