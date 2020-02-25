@@ -1,0 +1,57 @@
+
+/*!
+ * SmartLane V1
+ * Copyright 2019-2020 The WebWorks Pvt. Ltd. Authors
+ * Written By WebWorks Pvt. Ltd. Developers
+ *
+ */
+
+.top-5rem{margin-top: 5rem;}
+.btn-bg-blue{background-color: #148DFF;}
+.logo{width: 58%;}
+.height-50px{height: 50px;}
+.no-border{border: 0;box-shadow: none;}
+.progress{background-color: #ccc!important;}
+.file-upload-btn{
+    cursor:  pointer;
+}
+.file-upload-btn input[type="file"] {
+    width: 100%!important;
+    height: 100%!important;
+    position: absolute;
+    left: 0;
+    display: none;
+}
+.image-display{border: 1px solid #cecece;}; 
+
+.has-float-label label, .has-float-label>span{
+    background-color: #FFF!important; 
+}
+
+.custom-floating-label{
+    width: 88%!important;
+    margin-bottom: 0px!important;
+}
+
+.floating-label-input{
+    width: 100%!important;
+    margin-bottom: 0px!important;
+}
+
+img.image-display {
+    border: 1px solid #ccc;
+}
+.slane-border-bottom{
+    border-bottom: 1px solid #007bff!important;
+}
+label.invalid-feedback {
+    text-align: left!important;
+    display: inline!important;
+    height: 20px!important; 
+}
+tr, td{
+    text-align: left !important;
+    vertical-align: middle !important;
+}
+.parent_click{cursor: pointer;}
+.card.card-small{overflow-x: scroll !important;}
